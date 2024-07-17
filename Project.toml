@@ -1,6 +1,6 @@
 name = "Netpbm_jll"
 uuid = "98999733-62a0-5dba-8ad6-4caa993b519a"
-version = "10.86.41+0"
+version = "10.86.42+0"
 
 [deps]
 Xorg_kbproto_jll = "060dd47b-79ec-5ba1-a7b2-f4f2f7dcdd0f"
