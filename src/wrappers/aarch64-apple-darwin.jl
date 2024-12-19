@@ -4,9 +4,7 @@ export a411toppm, anytopnm, asciitopgm, atktopbm, avstopam, bioradtopgm, bmptopn
 using JpegTurbo_jll
 using Libtiff_jll
 using XML2_jll
-using Xorg_kbproto_jll
 using Xorg_libX11_jll
-using Xorg_xproto_jll
 using Zlib_jll
 using libpng_jll
 using Ghostscript_jll
@@ -381,7 +379,7 @@ JLLWrappers.@declare_executable_product(yuvtoppm)
 JLLWrappers.@declare_executable_product(yuy2topam)
 JLLWrappers.@declare_executable_product(zeisstopnm)
 function __init__()
-    JLLWrappers.@generate_init_header(JpegTurbo_jll, Libtiff_jll, XML2_jll, Xorg_kbproto_jll, Xorg_libX11_jll, Xorg_xproto_jll, Zlib_jll, libpng_jll, Ghostscript_jll)
+    JLLWrappers.@generate_init_header(JpegTurbo_jll, Libtiff_jll, XML2_jll, Xorg_libX11_jll, Zlib_jll, libpng_jll, Ghostscript_jll)
     JLLWrappers.@init_library_product(
         libnetpbm,
         "lib/libnetpbm.11.86.dylib",
