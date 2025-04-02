@@ -1,6 +1,6 @@
 name = "Netpbm_jll"
 uuid = "98999733-62a0-5dba-8ad6-4caa993b519a"
-version = "10.86.44+0"
+version = "10.86.45+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
