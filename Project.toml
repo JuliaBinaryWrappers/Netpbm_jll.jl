@@ -1,6 +1,6 @@
 name = "Netpbm_jll"
 uuid = "98999733-62a0-5dba-8ad6-4caa993b519a"
-version = "10.86.45+0"
+version = "10.86.47+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -21,8 +21,8 @@ Ghostscript_jll = "9.55.0"
 JpegTurbo_jll = "3.1.1"
 Libtiff_jll = "4.7.1"
 JLLWrappers = "1.7.0"
-XML2_jll = "2.13.6"
+XML2_jll = "~2.13.6"
 Xorg_libX11_jll = "1.8.6"
 Artifacts = "< 0.0.1, 1"
 julia = "1.6"
-libpng_jll = "1.6.47"
+libpng_jll = "1.6.50"
