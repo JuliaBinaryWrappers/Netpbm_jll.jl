@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("Netpbm")
-JLLWrappers.@generate_main_file("Netpbm", UUID("98999733-62a0-5dba-8ad6-4caa993b519a"))
+JLLWrappers.@generate_main_file("Netpbm", Base.UUID("98999733-62a0-5dba-8ad6-4caa993b519a"))
 end  # module Netpbm_jll

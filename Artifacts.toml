@@ -1,144 +1,144 @@
 [[Netpbm]]
 arch = "aarch64"
-git-tree-sha1 = "d8e08ecf0a20cc112c9a95b737f221e0d43b42f5"
+git-tree-sha1 = "055a7754481a40a491d5156d97d7e43b8ccaeb8b"
 os = "macos"
 
     [[Netpbm.download]]
-    sha256 = "7915166b3ec1ea8ff4f95c91df6e90520ffeadec2d82be2ee9ed4537a62a5dc8"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.aarch64-apple-darwin.tar.gz"
+    sha256 = "ed47d6e8cfd64eb9589f88ec85f460408b16a79c7348e41e3416f2a79fb9ad0b"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.aarch64-apple-darwin.tar.gz"
 [[Netpbm]]
 arch = "aarch64"
-git-tree-sha1 = "d69c7dcc49df272eb85e1c58de71b516342b89f9"
+git-tree-sha1 = "df99862696022f6d8e3d5a105bcbeec0aead55bd"
 libc = "glibc"
 os = "linux"
 
     [[Netpbm.download]]
-    sha256 = "fda125ed6d38773a9e8fcfc40d71c3b15424093ba19f58177ff00d5165a8ec46"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.aarch64-linux-gnu.tar.gz"
+    sha256 = "f4754897385c09b259bd5f4212dcfd81f66254b633094cc09790932ca58b295a"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.aarch64-linux-gnu.tar.gz"
 [[Netpbm]]
 arch = "aarch64"
-git-tree-sha1 = "9b532c30eb014cb0869eb79967d7c2845d0b3350"
+git-tree-sha1 = "cfea00292fac2053576c6b65b634a26ad25a37f6"
 libc = "musl"
 os = "linux"
 
     [[Netpbm.download]]
-    sha256 = "e224d21e8c1317afdfe89a9827e8395df4ee20e52e10a9be9d6f682017b89cae"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.aarch64-linux-musl.tar.gz"
+    sha256 = "d6e67da28e99b1ba3d0a061879d01d9039fe3345d591e45cbcafe51be167b813"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.aarch64-linux-musl.tar.gz"
 [[Netpbm]]
 arch = "aarch64"
-git-tree-sha1 = "b21c57dfbbe94d0c240b8c5a37c1788af7a2d961"
+git-tree-sha1 = "4821a8733883181bc016531ffe7ed33db3eb153c"
 os = "freebsd"
 
     [[Netpbm.download]]
-    sha256 = "7c644a3d626695824b16758ed296de93f2490bde93f12d3cc82e5930efe28644"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "b9995945be118c54a12e1df6631fc1aea8664a8451dd2f34f27737f68360d56b"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.aarch64-unknown-freebsd.tar.gz"
 [[Netpbm]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "997321d57875a725dbc10401d7dc81743aae2d94"
+git-tree-sha1 = "d53aba848095adb31c57d31e21c29e3cd8ae1eb7"
 libc = "glibc"
 os = "linux"
 
     [[Netpbm.download]]
-    sha256 = "0e1be5bd6764af447b61cc05038e59174087434ebc2f151886e86592ef7c018a"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "15ec38cce4388ea788d74b5aa12fc33100c0fb6073a5079812d9b1b869976ae9"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.armv6l-linux-gnueabihf.tar.gz"
 [[Netpbm]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "aeca5d5b96a3319fa4e4c7d64726c013bbf7220e"
+git-tree-sha1 = "06a81c16ed737b6f2c311ddd16c5bcb881d822a8"
 libc = "musl"
 os = "linux"
 
     [[Netpbm.download]]
-    sha256 = "ee7bce8f9bcbcc63a611d8865b3ff047987178514b6bd1aedff7a8bb25c1460d"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "01a5cec096fb5dab42d7e016ffea98f926bdd55ea92f723a10724923104e42d4"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.armv6l-linux-musleabihf.tar.gz"
 [[Netpbm]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f6ea59e1633013550e5921a8ac5f8b0c63199c97"
+git-tree-sha1 = "fffa119907250a06d79f5603a0ec26a2a1dca446"
 libc = "glibc"
 os = "linux"
 
     [[Netpbm.download]]
-    sha256 = "67a2173117b8391877cfdee09e83fbd26ae7f7b9f7ff056bfcb1a7de656e1f28"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "448c70a3a783744bea3d2ba5ddf7d4c64d672e3266c2ab909a53508b03ee881e"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.armv7l-linux-gnueabihf.tar.gz"
 [[Netpbm]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "20368c37d32deb4cdc5f4993cd2038cf953b96e5"
+git-tree-sha1 = "b8f8655cc6f1cd8a679fd042e0391dd8caac56d2"
 libc = "musl"
 os = "linux"
 
     [[Netpbm.download]]
-    sha256 = "a4101404e26274b72ef350135e73306729338dde659cd0e549c0460b94e4327d"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "019f5933ae3aaa1c434d3d8f558a4430f074454c351403df82e192116dcaef5f"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.armv7l-linux-musleabihf.tar.gz"
 [[Netpbm]]
 arch = "i686"
-git-tree-sha1 = "1ec38f03693f229a5bcd25d46ab4a8f0a36eae35"
+git-tree-sha1 = "782117836e1430213236e36ed8c65b5a0321af99"
 libc = "glibc"
 os = "linux"
 
     [[Netpbm.download]]
-    sha256 = "9234f31fec5619c053ee4e89b76c3b3cfa7e812ad95a3289cbd5c33b84febcb4"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.i686-linux-gnu.tar.gz"
+    sha256 = "6a4f678c07d13d8866495ea31e20452b42766cf77b25bdf43decc26788a83256"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.i686-linux-gnu.tar.gz"
 [[Netpbm]]
 arch = "i686"
-git-tree-sha1 = "7c711ee1e914fa20fe9016aa84a6c40fd545ea0c"
+git-tree-sha1 = "9655f2f6c4e34da180e51bb4dd975c0edf2ed860"
 libc = "musl"
 os = "linux"
 
     [[Netpbm.download]]
-    sha256 = "75696e0df60b609f617adf7c78c19b8ac7f01cf37792d2ccc72f9816ea51d8da"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.i686-linux-musl.tar.gz"
+    sha256 = "09a36f8e6277f4accd4df90a64e4a497797ce7927de3fe95a4e8eebe4c1abc69"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.i686-linux-musl.tar.gz"
 [[Netpbm]]
 arch = "powerpc64le"
-git-tree-sha1 = "6c912ada55af0d77e57f36d585e770c465de3e40"
+git-tree-sha1 = "9f09219649d48049d22a4cecebb5f5cf456b65fb"
 libc = "glibc"
 os = "linux"
 
     [[Netpbm.download]]
-    sha256 = "7ff7a25ff44d90808e61bad93d4b8a0e6ff9a4702fa43b7121a825a9335d0c6c"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "dc5b68c7d8198a18371ca90312b2afeff90d1c09127fb326a8ac332e1384ec83"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.powerpc64le-linux-gnu.tar.gz"
 [[Netpbm]]
 arch = "riscv64"
-git-tree-sha1 = "603ad403bba74c566cc6676b0c6dce5c3d1f1edc"
+git-tree-sha1 = "d41236166f015d096c573e5b8014446b1ee1e655"
 libc = "glibc"
 os = "linux"
 
     [[Netpbm.download]]
-    sha256 = "e9292f8387fbd61a341b16247023e5585b157f2ccdaf082a19f2c843cf4dd823"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.riscv64-linux-gnu.tar.gz"
+    sha256 = "64ce0cb75f3f86f57a5873eab2ccf9b9c83288768434b3daa7401ce082a03101"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.riscv64-linux-gnu.tar.gz"
 [[Netpbm]]
 arch = "x86_64"
-git-tree-sha1 = "a800b3e278cacbf80d5e9e019e08debe2ec43acc"
+git-tree-sha1 = "ff9d1fd630d79cd37e350cf612381b97d067d9ce"
 os = "macos"
 
     [[Netpbm.download]]
-    sha256 = "f5349d48958226d53cf1c7c3c4531db7f467dbb64fd041b34daf96bb7f30eeb4"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.x86_64-apple-darwin.tar.gz"
+    sha256 = "d95e0d193e17da0c109752bfea9bc23c3eb7b3548c87ef4f4b9e97754335d332"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.x86_64-apple-darwin.tar.gz"
 [[Netpbm]]
 arch = "x86_64"
-git-tree-sha1 = "6366551de4a38115b8983e44790f647a2f67bf96"
+git-tree-sha1 = "bb109998fc896b66677c24da83c54ad7e12a6149"
 libc = "glibc"
 os = "linux"
 
     [[Netpbm.download]]
-    sha256 = "017609c8084e7588ff916373efa16003e263f89994de9af50caa3c6cbd0dff61"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.x86_64-linux-gnu.tar.gz"
+    sha256 = "a4dc839bc0cffbcb7306cc3ba4ec3725412a2d6d3aa59e12ee19f3f5954daa0d"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.x86_64-linux-gnu.tar.gz"
 [[Netpbm]]
 arch = "x86_64"
-git-tree-sha1 = "34692b07793402ebf4e13d880721074f06a3cfe5"
+git-tree-sha1 = "bee9da12f9f3c8547004c40a3fb93c0e32341e47"
 libc = "musl"
 os = "linux"
 
     [[Netpbm.download]]
-    sha256 = "039f9ee031bab86d36a46f0fbd0299810f3dd215b33b567c56c34ba3b1692c92"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.x86_64-linux-musl.tar.gz"
+    sha256 = "c77bf40a0a37a8a34770d0b51a5c1e10c4e1fa8d39d47447e6d243e786a65f63"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.x86_64-linux-musl.tar.gz"
 [[Netpbm]]
 arch = "x86_64"
-git-tree-sha1 = "329d632202290eb08e6afc4e467aabf667e7174f"
+git-tree-sha1 = "07f5b82629f8aacafbe57e1a1ff141925f31fc96"
 os = "freebsd"
 
     [[Netpbm.download]]
-    sha256 = "22e2d0c59cdcc5db104bc5de20f116aa54a7ffe83d59e3f253eb2b98c9085b5c"
-    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.48+0/Netpbm.v10.86.48.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "ab4af62b021a8971b3df0b9492478492f43dea0dee4462efc3fea8cc2a02511a"
+    url = "https://github.com/JuliaBinaryWrappers/Netpbm_jll.jl/releases/download/Netpbm-v10.86.49+0/Netpbm.v10.86.49.x86_64-unknown-freebsd.tar.gz"
